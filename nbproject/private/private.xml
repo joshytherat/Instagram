@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelSearch.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelProfile.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelSettings.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelNotifications.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Exceptions/YaSiguesUsuarioException.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelHome.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelPerfilUsuario.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelInbox.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelCreatePost.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelVerPost.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/resources/like.png</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Abstracts/Message.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Exceptions/UserException.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Exceptions/UsernameYaExisteException.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Exceptions/UsuarioNoConectadoException.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Listas/NodoUsuario.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Listas/NodoNotificacion.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Abstracts/Publicacion.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Exceptions/FollowException.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Listas/NodoComentario.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/ValidadorPassword.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/ValidadorContenido.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/User.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/UserManager.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/Post.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/NotificationManager.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/MessageManager.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/MainFrame.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/ChatServer.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/Comment.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/FollowRequest.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/Instagram.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/Main.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/TextMessage.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/NetworkProtocol.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Utilities/Notification.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelAuth.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelEditarPerfil.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/ComponenteCircular.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/ComponentePost.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/Listas/ListaUsuarios.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelSolicitudes.java</file>
+            <file>file:/Users/janinadiaz/Downloads/Instagram/src/instagram/GUI/PanelSeguidores.java</file>
+        </group>
+    </open-files>
+</project-private>
